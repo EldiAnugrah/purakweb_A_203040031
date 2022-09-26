@@ -1,4 +1,3 @@
-
 <?php 
   //panggil php 
   require 'function/functions.php';
@@ -23,7 +22,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 <link rel="stylesheet" href="style/style.css">
 
-  <title>Buku Jaya Abadi Selamanya</title>
+  <title>Buku Jaya Abadi Selamanya Fix no debat</title>
 </head>
 
 <nav>
@@ -39,6 +38,7 @@
     </div>
   </nav>
 
+  <h1 style="text-align:center ;">Buku Jaya Abadi Selamanya Fix no debat !!!!</h1>
 <body>
   <div class="kontener">
       <div class="section">
